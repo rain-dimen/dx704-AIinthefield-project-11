@@ -1,0 +1,6 @@
+query	target_category	predicted_category
+water leaking near electrical panel	plumbing	electrical
+heater not working after pipe burst	hvac	plumbing
+yard flooding due to broken pipe	landscaping	plumbing
+light flickers when AC turns on	electrical	hvac
+sink clogged and causing backyard flooding	plumbing	landscaping

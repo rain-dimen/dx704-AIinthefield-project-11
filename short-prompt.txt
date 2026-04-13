@@ -1,0 +1,6 @@
+Classify the following home service query into one category:
+electrical, plumbing, hvac, landscaping, or general.
+
+Only output the category.
+
+Query: {query}
