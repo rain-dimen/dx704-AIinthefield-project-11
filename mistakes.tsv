@@ -1,6 +1,6 @@
 query	target_category	predicted_category
-water leaking near electrical panel	plumbing	electrical
-heater not working after pipe burst	hvac	plumbing
-yard flooding due to broken pipe	landscaping	plumbing
-light flickers when AC turns on	electrical	hvac
-sink clogged and causing backyard flooding	plumbing	landscaping
+Ceiling leaks near a light fixture during rain	roofing	electrical
+Water dripping from vent when it rains	roofing	plumbing
+Leak in attic above bathroom pipes	roofing	plumbing
+Rain enters where wiring comes through roof	roofing	electrical
+Ceiling stain grows after rain near outlet	roofing	electrical

@@ -1,15 +1,13 @@
-You are an expert classifier for home service requests.
+You are classifying homeowner service requests.
 
-Your task is to classify each query into exactly one of the following categories:
-- electrical: issues involving wiring, outlets, power, breakers, or lighting
-- plumbing: issues involving water, pipes, drains, toilets, or leaks
-- hvac: issues involving heating, ventilation, air conditioning, or temperature control
-- landscaping: issues involving lawns, gardens, trees, or outdoor maintenance
-- general: anything that does not clearly fall into the above categories
+Choose exactly one category:
+- electrical: issues with wiring, outlets, breakers, lights, or power
+- plumbing: issues with pipes, drains, toilets, sinks, leaks, or water
+- roofing: issues with roof leaks, ceiling leaks, rain entry, shingles, gutters, attic
 
-Instructions:
+Rules:
 - Choose ONLY one category
-- Output ONLY the category name
-- Do not explain your answer
+- Output ONLY one word
+- Do not explain
 
 Query: {query}
