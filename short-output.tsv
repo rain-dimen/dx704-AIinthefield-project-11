@@ -7,13 +7,13 @@ query_id	predicted_category
 6	electrical
 7	roofing
 8	plumbing
-9	electrical
+9	plumbing
 10	roofing
 11	plumbing
 12	electrical
 13	roofing
 14	plumbing
-15	electrical
+15	roofing
 16	plumbing
 17	plumbing
 18	electrical
@@ -35,7 +35,7 @@ query_id	predicted_category
 34	roofing
 35	plumbing
 36	electrical
-37	roofing
+37	plumbing
 38	plumbing
 39	electrical
 40	roofing
